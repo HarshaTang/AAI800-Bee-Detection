@@ -11,7 +11,7 @@ Bee Detection Project for AAI800 Course at Stevens Institute of Technology. Usin
 	
 	4. Google Colab: https://colab.research.google.com/?utm_source=scs-index
 	
-** Useful Videos**
+**Useful Videos**
 
 	1. YOLOv5 with Roboflow: https://youtu.be/MdF6x6ZmLAY?si=8X1HfcXJTMNw7NFJ
 	
